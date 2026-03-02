@@ -1,9 +1,9 @@
-package etudiant15;
+package HadjerBenhagouga;
 
-import etudiant15.aquarium.Aquarium;
-import etudiant15.aquarium.Piranha;
-import etudiant15.aquarium.Poisson;
-import etudiant15.aquarium.PoissonClown;
+import HadjerBenhagouga.aquarium.Aquarium;
+import HadjerBenhagouga.aquarium.Piranha;
+import HadjerBenhagouga.aquarium.Poisson;
+import HadjerBenhagouga.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
