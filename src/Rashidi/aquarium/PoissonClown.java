@@ -1,4 +1,4 @@
-package etudiant07.aquarium;
+package Rashidi.aquarium;
 
 public class PoissonClown extends Poisson {
 
