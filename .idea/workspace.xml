@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0196bea-cf93-4d69-a7be-f8bcbbf1f3c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FelixLemieux/algues/Algue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/AbstractAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/AbstractAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Aquarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Nageur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Nageur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Piranha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Piranha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Poisson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Poisson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/PoissonClown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/PoissonClown.java" afterDir="false" />
+    <list default="true" id="b0196bea-cf93-4d69-a7be-f8bcbbf1f3c1" name="Changes" comment="modification implementation de la methode manger du PoissonClown">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HadjerBenhagouga/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant10/aquarium/AbstractAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HadjerBenhagouga/aquarium/AbstractAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant10/aquarium/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HadjerBenhagouga/aquarium/Aquarium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant10/aquarium/Nageur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HadjerBenhagouga/aquarium/Nageur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant10/aquarium/Piranha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HadjerBenhagouga/aquarium/Piranha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant10/aquarium/Poisson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HadjerBenhagouga/aquarium/Poisson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/2544787/OneDrive - Cégep Limoilou/cours informatique/dev Informatique/Github/Formatif-S6-Gr1&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/2546970/Documents/GitHub/Formatif-S6-Gr1",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -67,7 +66,17 @@
       <workItem from="1772471871243" duration="106000" />
       <workItem from="1772472128462" duration="169000" />
       <workItem from="1772472344356" duration="1130000" />
+      <workItem from="1772474662279" duration="1402000" />
     </task>
+    <task id="LOCAL-00001" summary="modification implementation de la methode manger du PoissonClown">
+      <option name="closed" value="true" />
+      <created>1772475460021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772475460021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modification implementation de la methode manger du PoissonClown" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification implementation de la methode manger du PoissonClown" />
   </component>
 </project>
