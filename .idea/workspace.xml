@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0196bea-cf93-4d69-a7be-f8bcbbf1f3c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FelixLemieux/algues/Algue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FelixLemieux/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/AbstractAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/AbstractAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Aquarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Nageur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Nageur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Piranha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Piranha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Poisson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/Poisson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/aquarium/PoissonClown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/aquarium/PoissonClown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

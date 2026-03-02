@@ -1,4 +1,4 @@
-package FelixLemieux.algues;
+package FelixLemieux.aquarium.algues;
 
 public class Algue {
 
