@@ -12,6 +12,6 @@ public class PoissonClown extends Poisson {
     @Override
     public void manger() {
 
-        System.out.println(this.nom + " mange des frites au ketchup");
+        System.out.println(this.nom + " mange du plancton");
     }
 }
