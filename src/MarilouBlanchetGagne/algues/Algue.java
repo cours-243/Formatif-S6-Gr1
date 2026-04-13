@@ -4,7 +4,7 @@ public class Algue {
 
     @Override
     public String toString() {
-        return "Une algue verte ben normale";
+        return "Une algue verte bien normale";
 
     }
 }
